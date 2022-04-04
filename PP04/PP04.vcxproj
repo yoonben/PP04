@@ -22,6 +22,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="MconsolUtil.hpp" />
     <ClInclude Include="MGameLoop.hpp" />
   </ItemGroup>
   <ItemGroup>
